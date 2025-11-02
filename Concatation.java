@@ -8,6 +8,6 @@ public class Concatation {
         int b = 2;
         String c = "sum";
 
-        System.out.println(c + " of" + " a+" + "b=" + (a + b));
+        System.out.println(c + " of" + " a &" + " b = " + (a + b));
     }
 }
